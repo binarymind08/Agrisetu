@@ -75,7 +75,7 @@
 
 CSE Student | Developer | AI & Full Stack Enthusiast
 
-- GitHub: [@snehal-Thombare08](https://github.com/binarymind08)
+- GitHub: [@Snehal-Thombare08](https://github.com/binarymind08)
 
 ---
 
